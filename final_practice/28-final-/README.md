@@ -1,12 +1,3 @@
-Introduction
-------------
-
-This repository contains basic example of usage PageObject
-pattern with Selenium and Python (PyTest + Selenium).
-
-Video screencast with the description ot this code:
-https://www.youtube.com/watch?v=BRxp1Kn1G7w
-
 
 Files
 -----
